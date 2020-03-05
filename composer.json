@@ -14,6 +14,7 @@
         "laravel/telescope": "^4.0@dev"
     },
     "require-dev": {
-        "barryvdh/laravel-ide-helper": "^2.6@dev"
+        "barryvdh/laravel-ide-helper": "^2.6@dev",
+        "barryvdh/laravel-debugbar": "^3.2@dev"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "aries/lsb",
+    "description": "some usefull package for develop laravel projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Mohammadi",
+            "email": "imohammadd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/telescope": "^4.0@dev"
+    },
+    "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.6@dev"
+    }
+}
